@@ -1,0 +1,17 @@
+[
+    {
+        "fecha": "2026-04-15",
+        "cliente": "1",
+        "codigoMesa": "1",
+        "productos": [
+            {
+                "codigo": "12",
+                "cantidad": "4"
+            },
+            {
+                "codigo": "12",
+                "cantidad": "4"
+            }
+        ]
+    }
+]
